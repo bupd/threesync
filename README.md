@@ -2,9 +2,6 @@
 
 sync your local folders with git & gdrive. Completely for free & OSS!!
 
-
-![ThreeSync Diagram](https://github.com/bupd/threesync/assets/89722848/e5e9a40a-a61b-4d4f-a108-58707c456134)
-
 ![architecture-diagram.svg](./architecture-diagram.svg)
 
 ## Milestones
