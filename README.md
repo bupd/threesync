@@ -18,4 +18,18 @@ sync your local folders with git & gdrive. Completely for free & OSS!!
   - [ ] get gdrive access
   - [ ] run action and store lfs git in github of user account. 
 
+## Contributing:
+- First set up a google project and then create a oauth consent screen
+- Then create credentials and put the credentials in the env file
+
+.env should have the below with values:
+```js
+const CLIENT_ID = '';
+const CLIENT_SECRET = '';
+const REFRESH_TOKEN = '';
+const REDIRECT_URI = '';
+
+```
+
 Made with love ♥ by [@bupd](https://github.com/bupd)
+
