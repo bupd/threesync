@@ -45,7 +45,8 @@ async function uploadFile() {
   }
 }
 
-// uploadFile()
+uploadFile()
+
 async function deleteFile() {
   try {
     const response = await drive.files.delete({
@@ -59,4 +60,4 @@ async function deleteFile() {
   }
 }
 
-deleteFile();
+// deleteFile();
